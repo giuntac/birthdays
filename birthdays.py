@@ -1,4 +1,6 @@
-# this is a test comment for the lab of SFPD n°2
+'''
+This is a simple program to check the birthday of someone famouse
+'''
 birthdays = {
     'Albert Einstein': '03/14/1879',
     'Benjamin Franklin': '01/17/1706',
@@ -10,11 +12,17 @@ birthdays = {
     'Micheal Jordan': '17/02/1963'}
 
 def print_birthdays():
+    '''
+    commento 1
+    '''
     print('Welcome to the birthday dictionary. We know the birthdays of these people:')
     for name in birthdays:
         print(name)
 
 def return_birthday(name):
+    '''
+    commento 2
+    '''
     if name in birthdays:
         print('{}\'s birthday is {}.'.format(name, birthdays[name]))
     else:
