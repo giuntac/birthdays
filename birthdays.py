@@ -4,7 +4,7 @@ birthdays = {
     'Ada Lovelace': '12/10/1815',
     'Donald Trump': '06/14/1946',
     'Rowan Atkinson': '01/6/1955',
-    'Giulio Piccolo': '05/10/1994'
+    'Giulio Piccolo': '05/10/1994',
     'Cecilia Giunta':'11/02/1999'}
 
 def print_birthdays():
