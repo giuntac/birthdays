@@ -5,9 +5,4 @@ from birthdays import return_birthday
 return_birthday('Albert Einstein')
 return_birthday('Alan Turing')
 return_birthday('Barack Obama')
-<<<<<<< HEAD
-=======
-return_birthday('Donald Trump')
->>>>>>> mod_main
-
 
