@@ -1,3 +1,4 @@
+# this is a test comment for the lab of SFPD n°2
 birthdays = {
     'Albert Einstein': '03/14/1879',
     'Benjamin Franklin': '01/17/1706',
