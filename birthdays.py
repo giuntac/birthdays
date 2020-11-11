@@ -7,7 +7,8 @@ birthdays = {
     'Rowan Atkinson': '01/6/1955',
     'Giulio Piccolo': '05/10/1994',
     'Cecilia Giunta':'11/02/1999',
-    'Rachele Povelato':'16/01/2000}
+    'Rachele Povelato':'16/01/2000,
+    'Agnese Povelato':'11/10/1997}
 
 def print_birthdays():
     print('Welcome to the birthday dictionary. We know the birthdays of these people:')
